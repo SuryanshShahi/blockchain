@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tickets/tickets.sol": "pay"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"tickets/tickets.sol": {
+			"keccak256": "0xa2195134a297b5e85e66f41a3d0ba757504aa42268665cffa318e7d8af23f72c",
+			"urls": [
+				"bzz-raw://342753894fa5055da06c73c906d9529441052afc42c6f815a594240781bb3dfc",
+				"dweb:/ipfs/QmdQE4nT9o5ctSgLcRnYRAZuAk9DqD43VLJZSeE9M9XNwD"
+			]
+		}
+	},
+	"version": 1
+}

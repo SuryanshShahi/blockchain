@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "int256",
+						"name": "a",
+						"type": "int256"
+					}
+				],
+				"name": "check",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "value",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ifElse.sol": "ifElse"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ifElse.sol": {
+			"keccak256": "0xeaaf2d055fe9f7c40dd08301ce977ebc18d45d42d2127a2ac223de037ab7ab1b",
+			"urls": [
+				"bzz-raw://4034866ae2997acc2f33268e3dc8ba855a876ff7cc7a8181ef78c15f8fd38907",
+				"dweb:/ipfs/QmbHpWFN9JX8UvuxnVncbpSQTTCRwnZ3ut4xHJsvz32DrY"
+			]
+		}
+	},
+	"version": 1
+}

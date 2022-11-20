@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "money",
+				"outputs": [
+					{
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "setter",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"overflow.sol": "cons"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"overflow.sol": {
+			"keccak256": "0xfa5a05757b389ca0a6e21ad04aaec3dbfc1008b7055923dca5546673b74e60ff",
+			"urls": [
+				"bzz-raw://6cce9f98f7752602bd6ecd04873bbbf397ca0c8793438cb2579ccd159c4425f7",
+				"dweb:/ipfs/QmYQuPGUDGRfTiDZFMyFsN7Gs5kLV8x2Q488dqZLy7HRm8"
+			]
+		}
+	},
+	"version": 1
+}

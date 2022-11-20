@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tickets/tickets.sol": "ticke"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"tickets/tickets.sol": {
+			"keccak256": "0xda17ac89eb5498e8e381dde3361ffc809c052d8efc476b639e7e67f1111d3e68",
+			"urls": [
+				"bzz-raw://827fe5701400fd2903c901688c369e8ea144372931ab8d70f3cd04bb101df8dd",
+				"dweb:/ipfs/QmdcNKr9MXgxBXEASoxtwYfDn7nTN6z34C9svAJ21xGAwv"
+			]
+		}
+	},
+	"version": 1
+}
